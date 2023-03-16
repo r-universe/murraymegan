@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FDRestimation"]
+	path = FDRestimation
+	url = https://github.com/murraymegan/fdrestimation
+	shallow = true
+	registered = true
